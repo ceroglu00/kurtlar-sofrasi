@@ -6,7 +6,7 @@
       </v-app-bar-nav-icon>
     </template>
 
-    <v-app-bar-title>KURTLAR SOFRASI</v-app-bar-title>
+    <v-app-bar-title>KURTLAR SOFRASI 2</v-app-bar-title>
 
 
     <v-btn>Oynanış</v-btn>
