@@ -4,6 +4,8 @@
 
       <Header></Header>
 
+      <Test></Test>
+
     </v-main>
 
   </v-app>
@@ -11,4 +13,5 @@
 
 <script lang="ts" setup>
 import Header from "@/components/Header.vue";
+import Test from "@/components/Test.vue";
 </script>
